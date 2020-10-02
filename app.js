@@ -7,3 +7,5 @@ showMsg("Frontlabs Git");
 showMsg("From the other side")
 
 showMsg("forked and PR generated")
+
+showMsg("Pull with Rebase")
