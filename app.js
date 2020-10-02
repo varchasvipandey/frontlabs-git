@@ -4,4 +4,4 @@ const showMsg = (msg) => {
 
 showMsg("Frontlabs Git");
 
-showMsg("From the other side")
+showMsg("From the other side");
